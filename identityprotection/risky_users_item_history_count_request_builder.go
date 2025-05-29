@@ -6,7 +6,7 @@ package identityprotection
 import (
     "context"
     i2ae4187f7daee263371cb1c977df639813ab50ffa529013b7437480d1ec0158f "github.com/microsoft/kiota-abstractions-go"
-    idae218f47fa3b03633eafcaa0318872d0b9b7f3b9f3a816347f92aeb0932e506 "github.com/sysucjf111/msgraph-sdk-go/models/odataerrors"
+    idae218f47fa3b03633eafcaa0318872d0b9b7f3b9f3a816347f92aeb0932e506 "github.com/microsoftgraph/msgraph-sdk-go/models/odataerrors"
 )
 
 // RiskyUsersItemHistoryCountRequestBuilder provides operations to count the resources in the collection.

@@ -5,7 +5,7 @@
   "kiotaVersion": "1.26.1",
   "clientClassName": "GraphServiceClient",
   "typeAccessModifier": "Public",
-  "clientNamespaceName": "github.com/sysucjf111/msgraph-sdk-go",
+  "clientNamespaceName": "github.com/microsoftgraph/msgraph-sdk-go",
   "language": "Go",
   "usesBackingStore": false,
   "excludeBackwardCompatible": false,

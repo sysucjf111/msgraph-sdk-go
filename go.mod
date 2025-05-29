@@ -1,4 +1,4 @@
-module github.com/sysucjf111/msgraph-sdk-go
+module github.com/microsoftgraph/msgraph-sdk-go
 
 go 1.20
 
